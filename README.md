@@ -1,2 +1,2 @@
 # esmall-tiles-one
-Map tiles for Elizabeth Small StoryMap, Book One
+Map tiles for Elisabeth Small StoryMap, Book One
